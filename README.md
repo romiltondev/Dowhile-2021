@@ -1,3 +1,3 @@
 ## Dowhile 2021
 
-<img src="./badge.PNG"/>
+<img src="./images/badge.PNG"/>
